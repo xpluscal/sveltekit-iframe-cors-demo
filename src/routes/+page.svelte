@@ -1,0 +1,1 @@
+<iframe src="https://sveltekit-cors-iframe.herokuapp.com/" frameborder="0"></iframe>
